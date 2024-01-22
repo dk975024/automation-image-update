@@ -1,0 +1,5 @@
+go1.20.7
+
+goci_image :go1.20.7
+goimage: (go1.20.7)
+goimage: ("go1.20.7")

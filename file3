@@ -1,0 +1,10 @@
+go1.20.7
+
+newline 
+goci_image : go1.20.7
+new2
+xyz
+goci_image2 : go1.20.7
+expected output : ['go1.20.7']
+
+
